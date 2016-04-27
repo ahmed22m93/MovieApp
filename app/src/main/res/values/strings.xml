@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    
+    <string name="popular_string">Popular</string>
+    <string name="top_rated_string">Top rated</string>
+    <string name="favorite_string">Favorite</string>
+
+</resources>

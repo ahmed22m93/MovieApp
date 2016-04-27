@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#252525</item>
+        <item name="colorPrimaryDark">#121212</item>
+        <item name="colorAccent">#54a1a1</item>
+    </style>
+
+
+    <style name="MovieListStyle">
+
+    </style>
+
+</resources>
